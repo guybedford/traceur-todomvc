@@ -7,6 +7,7 @@
     "lodash": "~1.2.1",
     "backbone": "~1.0.0",
     "es6-module-loader": "~0.4.2",
-    "backbone.localStorage": "~1.1.7"
+    "backbone.localStorage": "~1.1.7",
+    "systemjs": "guybedford/systemjs#~0.0.2"
   }
 }
